@@ -27,4 +27,4 @@
 ### ⚡ Fun fact:
 - I’m always up for learning something new, whether it's a new framework or a cool algorithmic technique!
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shahariya03&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShahariyaHossain&show_icons=true&theme=radical)
