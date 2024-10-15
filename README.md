@@ -11,6 +11,12 @@
   </a>
   <a href="https://www.facebook.com/shahariya03/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=facebook&logoColor=white" alt="Facebook"/>
+</p>
+
+<p align="center">
+  </a>
+  <a href="https://x.com/ShahariyaHossai" target="_blank">
+    <img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=flat&logo=X&logoColor=white" alt="X"/>
   </a>
 </p>
 
@@ -59,6 +65,9 @@ I'm a **Backend Developer** with a deep interest in **Artificial Intelligence**,
   <a href="https://www.javascript.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
   </a>
+  <a href="https://www.mysql.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
+  </a>
 </p>
 
 ---
@@ -80,8 +89,17 @@ I'm a **Backend Developer** with a deep interest in **Artificial Intelligence**,
 ---
 
 ### 📫 How to Reach Me:
-- **LinkedIn**: [Md Shahariya Hossain](https://www.linkedin.com/in/shahariyahossain/)
-- **Facebook**: [Md Shahariya Hossain](https://www.facebook.com/shahariya03/)
+<p align="left">
+  <a href="https://www.linkedin.com/in/shahariyahossain/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.facebook.com/shahariya03/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Facebook" height="30" width="40" />
+  </a>
+  <a href="https://x.com/ShahariyaHossai" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="X" height="30" width="40" />
+  </a>
+</p>
 
 ---
 
