@@ -1,38 +1,89 @@
-## 👋 Hi, I'm Md Shahariya Hossain (aka @ShahariyaHossain)
+<h1 align="center">Hey there, I'm Md Shahariya Hossain 👋</h1>
+<h3 align="center">A Passionate Backend Developer | AI Enthusiast | Problem Solver</h3>
 
-### 👨‍💻 About Me:
-I'm a passionate **Back-end Web Developer** exploring the vast domains of **Machine Learning**, **Artificial Intelligence**, and **Data Science**. With a strong foundation in Python and Django, I love creating robust, scalable applications that solve real-world problems. My journey continues as I dive deeper into cutting-edge technologies and frameworks.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ShahariyaHossain&label=Profile%20views&color=0e75b6&style=flat" alt="ShahariyaHossain" />
+</p>
 
-- 💼 Currently, I'm focusing on:
-  - Advanced Django topics like signals, channels, ORM, DRF, and QuerySets.
-  - Optimizing workflows using Redis, Celery, Docker, and AWS.
-  - Experimenting with algorithms like the **Bloom Filter** for efficiency.
+<p align="center">
+  <a href="https://www.linkedin.com/in/shahariyahossain/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.facebook.com/shahariya03/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+</p>
 
-### 🌱 Learning & Growing:
-- Actively improving my knowledge of **distributed systems** and **scalable architectures**.
-- Exploring **API development** and **microservices** with Django Rest Framework.
-- Enhancing frontend skills with **HTML**, **CSS**, and **JavaScript** to complement my back-end expertise.
+---
 
-### 🛠️ Skills & Technologies:
-- **Languages:** Python, JavaScript, HTML, CSS
-- **Frameworks & Tools:** Django, Docker, Redis, Celery, AWS
-- **Databases:** PostgreSQL, SQLite
-- **Version Control:** Git, GitHub
-- **Other:** RestAPI, Jazzmin/Grappelli Admin Interface, Bloom Filter Algorithm
+### 🚀 About Me
 
-### 📈 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShahariyaHossain&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahariyaHossain&layout=compact&theme=radical)
+I'm a **Backend Developer** with a deep interest in **Artificial Intelligence**, **Machine Learning**, and **Data Science**. I love building efficient, scalable systems and experimenting with emerging technologies.
 
-### 💬 Let's Collaborate On:
-- Django and Python-based web applications
-- Machine Learning and Data Science projects
-- Open-source contributions and innovative tech solutions
+- 💻 I work primarily with **Python** and **Django**, focusing on backend development.
+- 🌱 Currently diving deep into advanced **Django** topics such as **Channels, Signals, Redis**, and **Celery**.
+- 🧠 I’m exploring **AI models** and applying them to real-world projects.
+- 🔥 I’m passionate about learning new algorithms and applying **distributed systems** knowledge.
+- 💬 I’m always happy to collaborate on **AI, backend development, and open-source projects**.
 
-### 📫 Get In Touch:
-- **Email:** [mdshahariyahossain15@gmail.com](mailto:mdshahariyahossain15@gmail.com)
-- **LinkedIn:** [https://www.linkedin.com/in/shahariyahossain/]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/shahariyahossain/))
-- **Twitter:** [@Shahariya03](https://twitter.com/ShahariyaHossain)
+---
 
-### 🚀 Fun Fact:
-I'm always on the lookout for new challenges and love deep diving into complex problem-solving with algorithms!
+### 💡 What I'm Working On:
+- Building scalable back-end architectures with **Django** and **Rest APIs**.
+- Learning and applying the **Bloom Filter Algorithm** for optimizing search systems.
+- Implementing **Docker**, **AWS**, and **Redis** in my projects to enhance scalability.
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <a href="https://www.python.org" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/> 
+  </a>
+  <a href="https://www.docker.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> 
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> 
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  </a>
+  <a href="https://redis.io/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/> 
+  </a>
+  <a href="https://www.javascript.com" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShahariyaHossain&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ShahariyaHossain&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahariyaHossain&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 How to Reach Me:
+- **LinkedIn**: [Md Shahariya Hossain](https://www.linkedin.com/in/shahariyahossain/)
+- **Facebook**: [Md Shahariya Hossain](https://www.facebook.com/shahariya03/)
+
+---
+
+### ⚡ Fun Fact:
+I’m obsessed with improving system performance, and when I’m not coding, you’ll find me exploring AI research papers or optimizing algorithms!
